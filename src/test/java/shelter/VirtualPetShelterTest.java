@@ -1,4 +1,5 @@
-package shelter;
+import static org.junit.Assert.*;
 
-public class VirtualPetShelterTest {
+public class VirtualPetShelterTestTest {
+
 }
